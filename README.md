@@ -17,4 +17,4 @@ Yuri Frolov (mailto:frolovyuv@mgpu.ru)
 ## Бизнес-аналитика и ЦТО
 
 - `lecture 01` Intro:
-    -  [Introduction to Data analytics]()
+    -  [Introduction to Data analytics](/zd_1_students.ipynb)
